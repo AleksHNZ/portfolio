@@ -12,7 +12,7 @@ import {
 
 const logoStyle = {
   borderRadius: "10rem 10rem 1rem 1rem",
-  width: '65%',
+  width: '55%',
   height: "100%",
 }
 function Hero() {
@@ -36,7 +36,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <img
-              src={ require('../../Assets/about.png').default}
+              src={ require('../../Assets/about1.png').default}
               alt="man-svgrepo" style={logoStyle}
             />
           </HeroRight>
