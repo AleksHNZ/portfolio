@@ -12,7 +12,7 @@ import {
 
 const logoStyle = {
   borderRadius: "10rem 10rem 1rem 1rem",
-  width: '55%',
+  width: '48%',
   height: "100%",
 }
 function Hero() {
