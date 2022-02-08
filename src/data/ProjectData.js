@@ -45,6 +45,16 @@ export const ProjectList = [
     demo_url: "https://react-drammachine-app.netlify.app/",
   },
 
+  {
+    img: "https://raw.githubusercontent.com/AleksHNZ/resume/main/projects/project_6.png",
+    title: "Bookmark Landing Page",
+    description:
+      "Responsive Landing Page.",
+    tech_stack: "HTML, CSS, JavaScript",
+    github_url: "https://github.com/AleksHNZ/bookmark-landing-page",
+    demo_url: "https://alekshnz.github.io/bookmark-landing-page/",
+  },
+
 ];
 
 
