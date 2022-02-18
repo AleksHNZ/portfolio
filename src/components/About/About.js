@@ -19,7 +19,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Ali</strong>. I'm a self-taught programmer who like creating projects with brand new technologies, focusing on frontend and studying backend . I started in March 2021 and will always continue from this point ^^.
+            Hello! My name is <strong>Ali</strong>. I'm a self-taught programmer who like creating projects with brand new technologies, focusing on frontend and studying backend.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
