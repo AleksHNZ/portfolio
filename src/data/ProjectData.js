@@ -94,4 +94,20 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
     name: "Responsive",
   },
+  {
+    img: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png",
+    name: "NodeJS",
+  },
+  {
+    img: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+    name: "Python",
+  },
+  {
+    img: "https://img.icons8.com/ios/344/api-settings.png",
+    name: "RestAPI",
+  },
+  {
+    img: "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+    name: "MongoDB",
+  },
 ];
